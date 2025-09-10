@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: natural-selection-rl
+Version: 0.1.0
+Summary: Natural Selection with Reinforcement Learning - Baldwin Effect Simulation
+Requires-Python: >=3.8
+License-File: LICENSE

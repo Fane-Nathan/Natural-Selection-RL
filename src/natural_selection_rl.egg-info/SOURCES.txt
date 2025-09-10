@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+src/natural_selection_rl/__init__.py
+src/natural_selection_rl/creature.py
+src/natural_selection_rl/environment.py
+src/natural_selection_rl/evolution.py
+src/natural_selection_rl/simulation.py
+src/natural_selection_rl.egg-info/PKG-INFO
+src/natural_selection_rl.egg-info/SOURCES.txt
+src/natural_selection_rl.egg-info/dependency_links.txt
+src/natural_selection_rl.egg-info/requires.txt
+src/natural_selection_rl.egg-info/top_level.txt
